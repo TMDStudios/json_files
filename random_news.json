@@ -2,12 +2,12 @@
     {
         "source": "National News",
         "news": "Whales start buying large amounts of BTC following dip.",
-        "effect": 0.05
+        "effect": 0.025
     },
     {
         "source": "National News",
         "news": "Jungle sells more than 100 BTC to offset slow holiday season numbers.",
-        "effect": -0.0375
+        "effect": -0.0275
     },
     {
         "source": "Local News",
@@ -17,11 +17,16 @@
     {
         "source": "Social Media",
         "news": "Wheylon Husk announces that Edison will accept BTC starting next week.",
-        "effect": 0.125
+        "effect": 0.075
     },
     {
         "source": "Social Media",
         "news": "Bitcoin influencer sells 10% of his BTC.",
         "effect": -0.02
+    },
+    {
+        "source": "Social Media",
+        "news": "New NFT craze takes attention away from BTC.",
+        "effect": -0.015
     }
 ]
