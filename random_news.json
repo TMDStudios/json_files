@@ -28,5 +28,60 @@
         "source": "Social Media",
         "news": "New NFT craze takes attention away from BTC.",
         "effect": -0.015
+    },
+    {
+        "source": "Social Media",
+        "news": "BTC goes viral after newest meme.",
+        "effect": 0.01
+    },
+    {
+        "source": "Local News",
+        "news": "Local man finds USB containing 3 BTC.",
+        "effect": 0.0025
+    },
+    {
+        "source": "World News",
+        "news": "BTC connected to latest ransomware attack.",
+        "effect": -0.045
+    },
+    {
+        "source": "National News",
+        "news": "More stores now accept BTC nationwide.",
+        "effect": 0.0175
+    },
+    {
+        "source": "National News",
+        "news": "A new BTC ETF is in the works.",
+        "effect": 0.035
+    },
+    {
+        "source": "Social Media",
+        "news": "Major Bitcoin influencer warns of upcoming Crypto Winter.",
+        "effect": -0.04
+    },
+    {
+        "source": "Local News",
+        "news": "Is Bitcoin a scam?",
+        "effect": -0.0015
+    },
+    {
+        "source": "National Media",
+        "news": "Crypto exchanges fight for advertising rights in new stadium.",
+        "effect": 0.01
+    },
+    {
+        "source": "World News",
+        "news": "Another rug pull taints the image of cryptocurrencies.",
+        "effect": -0.033
+    },
+    {
+        "source": "National News",
+        "news": "More wallets frozen due to support of latest protest.",
+        "effect": -0.0225
+    },
+    {
+        "source": "National News",
+        "news": "Tax season a true wakeup call for some crypto traders.",
+        "effect": -0.015
     }
 ]
