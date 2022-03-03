@@ -83,5 +83,35 @@
         "source": "National News",
         "news": "Tax season a true wakeup call for some crypto traders.",
         "effect": -0.015
+    },
+    {
+        "source": "Social Media",
+        "news": "NFT sales hit an all time high.",
+        "effect": 0.0125
+    },
+    {
+        "source": "Social Media",
+        "news": "3 more countries consider making BTC legal tender.",
+        "effect": 0.033
+    },
+    {
+        "source": "Social Media",
+        "news": "Major influencer predicts bear cycle.",
+        "effect": -0.03
+    },
+    {
+        "source": "National News",
+        "news": "Play to earn games face backlash after not delivering on promise.",
+        "effect": -0.0275
+    },
+    {
+        "source": "Social Media",
+        "news": "BTC fear index hits all time high",
+        "effect": -0.045
+    },
+    {
+        "source": "World News",
+        "news": "Millions in BTC donated to wartorn country.",
+        "effect": 0.0225
     }
 ]
