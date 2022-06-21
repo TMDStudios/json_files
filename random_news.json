@@ -4,6 +4,78 @@
         "news": "Whales start buying large amounts of BTC following dip.",
         "effect": 0.025
     },
+     {
+        "source": "Social Media",
+        "news": "Influencer donates BTC wallet to charity.",
+        "effect": 0.00693
+    },
+     {
+        "source": "Local news",
+        "news": "Woman scammed with plastic coin with BTC symbol on it.",
+        "effect": -0.0091
+    },
+     {
+        "source": "World",
+        "news": "Mexico senate gets BTC ATM.",
+        "effect": 0.0291
+    },
+     {
+        "source": "World News",
+        "news": "Ukraine joins European blockchain partnership as observer.",
+        "effect": 0.021
+    },
+     {
+        "source": "Local News",
+        "news": "Florida governor directed agencies to accept bitcoin for state taxes.",
+        "effect": 0.0454
+    },
+     {
+
+        "source": "World News",
+        "news": "Bulgarian woman scams thousands with fake criptocurrency.",
+        "effect": -0.0775
+    },
+     {
+        "source": "World News",
+        "news": "A last minute attempt in Europe to ban BTC fails in key vote.",
+        "effect": 0.0409
+    }, 
+     {
+    	 
+        "source": "World News",
+        "news": "Celcius withdrawal freeze is crashing BTC crypto market.",
+        "effect": -0.0820
+    },
+     {
+        "source": "Social Media",
+        "news": "A TikTok influencer brings cryptocurrency trading to the masses.",
+        "effect": 0.0623
+    },
+     {
+        "source": "Social Media",
+        "news": "Bitcoin miners want to recast themselves as eco-friendly.",
+        "effect": 0.02391
+    },
+     {
+        "source": "World News",
+        "news": "Crypto-currency's giant carbon footprint equal to that of Greece",
+        "effect": -0.0438
+    },
+     {
+        "source": "Local News",
+        "news": "23-year-old Texans made $4 million last year mining BTC off flare gas from oil drilling.",
+        "effect": 0.0283
+    },
+     {
+        "source": "Local News",
+        "news": "Bootstrap Energy is bringing BTC mining to Corpos Christi",
+        "effect": 0.00283
+    },
+     {
+        "source": "National News",
+        "news": "Salvador first country to adopt BTC as legal tender",
+        "effect": 0.028
+    },
     {
         "source": "National News",
         "news": "Jungle sells more than 100 BTC to offset slow holiday season numbers.",
