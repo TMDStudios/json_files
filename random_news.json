@@ -10,12 +10,12 @@
         "effect": 0.00693
     },
      {
-        "source": "Local news",
+        "source": "Local News",
         "news": "Woman scammed with plastic coin with BTC symbol on it.",
         "effect": -0.0091
     },
      {
-        "source": "World",
+        "source": "World News",
         "news": "Mexico senate gets BTC ATM.",
         "effect": 0.0291
     },
@@ -26,11 +26,10 @@
     },
      {
         "source": "Local News",
-        "news": "Florida governor directed agencies to accept bitcoin for state taxes.",
+        "news": "Florida governor directs agencies to accept Bitcoin for state taxes.",
         "effect": 0.0454
     },
      {
-
         "source": "World News",
         "news": "Bulgarian woman scams thousands with fake criptocurrency.",
         "effect": -0.0775
@@ -41,7 +40,6 @@
         "effect": 0.0409
     }, 
      {
-    	 
         "source": "World News",
         "news": "Celcius withdrawal freeze is crashing BTC crypto market.",
         "effect": -0.0820
@@ -73,7 +71,7 @@
     },
      {
         "source": "National News",
-        "news": "Salvador first country to adopt BTC as legal tender",
+        "news": "El Salvador becomes first country to adopt BTC as legal tender",
         "effect": 0.028
     },
     {
