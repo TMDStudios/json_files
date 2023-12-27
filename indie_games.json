@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Block Wars",
+        "description": "Retro arcade shooter.",
+        "website": "https://tmdstudios.net/",
+        "app_store": "",
+        "google_play": "https://play.google.com/store/apps/details?id=com.tmdstudios.blockwars",
+        "video": "NBj0O1tGO20",
+        "alt_video": "sA9OVmgT6lA",
+        "image": "https://play-lh.googleusercontent.com/1rON5qf8rvD3w948-2sKvFVzu0ZSEXTclvhF1PFw8mYxb74L60VeZDLQ-7OnVlXRG1I=w2560-h1440-rw",
+        "genre": "Shooter"
+    },
+    {
+        "name": "Buddy Breakout",
+        "description": "A new take on the breakout classic.",
+        "website": "https://tmdstudios.net/",
+        "app_store": "",
+        "google_play": "https://play.google.com/store/apps/details?id=com.tmdstudios.buddybreakout",
+        "video": "o3s7wLzzd4I",
+        "alt_video": "o3s7wLzzd4I",
+        "image": "https://play-lh.googleusercontent.com/M8Kb7P8kKtzAbiVWDPJ8zQr4Mbeekv2kgWl6tGZyWMuv-XdjEZeJz9t9hpviBdEF1w=w2560-h1440-rw",
+        "genre": "Arcade"
+    }
+]
