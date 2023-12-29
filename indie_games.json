@@ -2,23 +2,45 @@
     {
         "name": "Block Wars",
         "description": "Retro arcade shooter.",
-        "website": "https://tmdstudios.net/",
+        "website": "https://tmdstudios.github.io/",
         "app_store": "",
         "google_play": "https://play.google.com/store/apps/details?id=com.tmdstudios.blockwars",
-        "video": "NBj0O1tGO20",
-        "alt_video": "sA9OVmgT6lA",
+        "video": "9MBChUsqMy8",
         "image": "https://play-lh.googleusercontent.com/1rON5qf8rvD3w948-2sKvFVzu0ZSEXTclvhF1PFw8mYxb74L60VeZDLQ-7OnVlXRG1I=w2560-h1440-rw",
-        "genre": "Shooter"
+        "genre": "Shooter",
+        "approved": 1
     },
     {
         "name": "Buddy Breakout",
-        "description": "A new take on the breakout classic.",
-        "website": "https://tmdstudios.net/",
+        "description": "A new twist on a classic.",
+        "website": "https://tmdstudios.github.io/",
         "app_store": "",
         "google_play": "https://play.google.com/store/apps/details?id=com.tmdstudios.buddybreakout",
-        "video": "o3s7wLzzd4I",
-        "alt_video": "o3s7wLzzd4I",
+        "video": "V1wk2NYxhmk",
         "image": "https://play-lh.googleusercontent.com/M8Kb7P8kKtzAbiVWDPJ8zQr4Mbeekv2kgWl6tGZyWMuv-XdjEZeJz9t9hpviBdEF1w=w2560-h1440-rw",
-        "genre": "Arcade"
+        "genre": "Arcade",
+        "approved": 1
+    },
+    {
+        "name": "Puzzled Knight",
+        "description": "A match-3 fighting game.",
+        "website": "https://tmdstudios.github.io/",
+        "app_store": "",
+        "google_play": "https://play.google.com/store/apps/details?id=com.tmdstudios.puzzledknight",
+        "video": "aYcv7Hl_kB8",
+        "image": "https://play-lh.googleusercontent.com/NHQEB2nxZP8Iy5SJwAX5T33dUABP-WKVN5Xnww5WDvfOqGuKMc2UZj6TKNTcDHrCkC0=w2560-h1440-rw",
+        "genre": "Match 3",
+        "approved": 1
+    },
+    {
+        "name": "Road to Rage",
+        "description": "Retro shmup for Android.",
+        "website": "https://tmdstudios.github.io/",
+        "app_store": "",
+        "google_play": "https://play.google.com/store/apps/details?id=com.wordpress.tmdstudios",
+        "video": "r-tbHSkd03Y",
+        "image": "https://play-lh.googleusercontent.com/I1m1d0nO00mpXQqbt117pz2ltcNf2Bq9CpprbR0-BI-9m8OZVAMf0bGSIgzyguwHdgOP=w2560-h1440-rw",
+        "genre": "Shooter",
+        "approved": 1
     }
 ]
